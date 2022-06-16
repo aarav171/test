@@ -1,0 +1,12 @@
+
+ total no. of Keywords = 2
+
+ total no. of Identifiers = 3
+
+ total no. of Operators = 4
+
+ total no. of Seperators = 16
+
+ total no. of Integer = 2
+
+ total no. of Float = 3
